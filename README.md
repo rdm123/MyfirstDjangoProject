@@ -6,3 +6,13 @@ UPPERCASE
 New Line Remover
 Extra Spaces Remover
 Number Remover</pre>
+
+<h1>
+  <p>For Creating a Django File</p>😇😇
+  <pre><a href="#">django-admin startproject <file-name></a></pre>
+  <br>
+  <br>😎
+  <p>For Starting the server</p>
+  <pre><a href="#">python manage.py runserver</a></pre>
+</h1>
+
